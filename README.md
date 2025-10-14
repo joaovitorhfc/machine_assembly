@@ -1,5 +1,5 @@
 ## Assembly codes
-Here are some personal assembly codes that i've developed using Vscode
+Here are some personal assembly codes that i've developed 
 
 ## Plataform and Language used 
 <img
